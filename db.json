@@ -1,0 +1,7 @@
+{
+    "cars": [
+        { "id": 1, "brand": "Chevrolet", "model": "Camaro", "image": "https://www.kindpng.com/picc/m/178-1783873_2010-chevrolet-camaro-car-general-motors-carro-camaro.png", "price": 50000 },
+        { "id": 2, "brand": "Dodge", "model": "Challenger", "image": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/640x400/quality/80/https://s.aolcdn.com/commerce/autodata/images/USC90DOC191A021001.jpg", "price": 70000 },
+        { "id": 3, "brand": "Ford", "model": "Mustang", "image": "https://s.aolcdn.com/commerce/autodata/images/USC50FOC051B021001.jpg", "price": 60000 }
+    ]
+}
